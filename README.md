@@ -92,7 +92,8 @@ Contributed to an AI-powered agriculture-focused project.
 
 ## 🎵 Beyond Coding
 
-* 🎤 Classical Music Graduate
+* 🎤 Classical Music Graduate (Vocalist)
+* 💃 Classical Dance Graduate (Bharatnatyam)
 * 🏆 National-Level Singing Participant
 * 🎙️ 2× Gold Medalist in Speech Competitions
 * 🏛️ Model United Nations Participant
