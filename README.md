@@ -98,7 +98,7 @@ Contributed to an AI-powered agriculture-focused project.
 * 🏊🏻‍♀️ District-Level Swimming Winner
 * 🎙️ 2× Gold Medalist in Speech Competitions
 * 🏛️ Model United Nations Participant
-* 🏸 Badminton Enthusiast
+* 🏸 Bronze Medalist in Badminton
 
 ---
 
