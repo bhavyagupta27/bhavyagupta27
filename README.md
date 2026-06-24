@@ -12,7 +12,9 @@
 
 💡 Interested in Software Development, Data Structures & Algorithms, Web Development and Open Source
 
-🌱 Currently learning Java, DSA, Node.js and Full Stack Development
+🌱 Currently learning Java, Data Structures & Algorithms, Node.js and Full Stack Development
+
+💻 Regularly practicing DSA and building projects to strengthen problem-solving skills
 
 🎯 Working towards Software Development Internship opportunities
 
@@ -65,9 +67,9 @@ Interactive browser-based memory game with progressive difficulty.
 
 Web application that generates secure passwords based on user-selected criteria.
 
-### 🌾 KisanAI
+### 💻 DSA & LeetCode
 
-Contributed to an AI-powered agriculture-focused project.
+Actively solving Data Structures and Algorithms problems in Java and continuously improving problem-solving skills.
 
 ---
 
@@ -82,25 +84,25 @@ Contributed to an AI-powered agriculture-focused project.
 
 ## 📊 GitHub Analytics
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhavyagupta27&theme=tokyo-night)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhavyagupta27\&theme=tokyo-night)
 
-![Bhavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavyagupta27&show_icons=true&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=bhavyagupta27\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bhavyagupta27&theme=tokyonight)
+![Bhavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavyagupta27\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyagupta27&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=bhavyagupta27\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyagupta27\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🎵 Beyond Coding
 
 * 🎤 Classical Music Graduate (Vocalist)
-* 💃 Classical Dance Graduate (Bharatnatyam)
 * 🏆 National-Level Singing Participant
-* 🏊🏻‍♀️ District-Level Swimming Winner
 * 🎙️ 2× Gold Medalist in Speech Competitions
 * 🏛️ Model United Nations Participant
-* 🏸 Bronze Medalist in Badminton
+* 🏸 Badminton Enthusiast
 
 ---
 
@@ -108,25 +110,10 @@ Contributed to an AI-powered agriculture-focused project.
 
 📧 **[bhavyagupta2710@gmail.com](mailto:bhavyagupta2710@gmail.com)**
 
-💼 **LinkedIn:** https://linkedin.com/in/bhavya-gupta-137b26336
+💼 **LinkedIn:** [Bhavya Gupta](https://linkedin.com/in/bhavya-gupta-137b26336)
 
 💻 **GitHub:** https://github.com/bhavyagupta27
 
 ---
 
 ⭐ Consistently learning, building projects, and improving problem-solving skills.
-
-<!--
-**bhavyagupta27/bhavyagupta27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
