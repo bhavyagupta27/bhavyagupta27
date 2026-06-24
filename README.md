@@ -82,11 +82,13 @@ Contributed to an AI-powered agriculture-focused project.
 
 ## 📊 GitHub Analytics
 
-![Bhavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavyagupta27\&show_icons=true\&theme=tokyonight)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhavyagupta27&theme=tokyo-night)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bhavyagupta27\&theme=tokyonight)
+![Bhavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavyagupta27&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyagupta27\&layout=compact\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=bhavyagupta27&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyagupta27&layout=compact&theme=tokyonight)
 
 ---
 
