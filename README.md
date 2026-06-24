@@ -99,10 +99,12 @@ Actively solving Data Structures and Algorithms problems in Java and continuousl
 ## 🎵 Beyond Coding
 
 * 🎤 Classical Music Graduate (Vocalist)
+* 💃 Classical Dance Graduate (Bharatnatyam)
 * 🏆 National-Level Singing Participant
+* 🏊🏻‍♀️ District-Level Swimming Winner
 * 🎙️ 2× Gold Medalist in Speech Competitions
 * 🏛️ Model United Nations Participant
-* 🏸 Badminton Enthusiast
+* 🏸 Bronze Medalist in Badminton
 
 ---
 
