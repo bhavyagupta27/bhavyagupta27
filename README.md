@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bhavya Gupta
 
-### Computer Science & Technology Student | Java & DSA Learner | Web Developer
+### Computer Science Student | Java & DSA Learner | Web Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Computer+Science+Student;Learning+DSA+in+Java;Building+Web+Projects;Exploring+Full+Stack+Development" alt="Typing SVG" />
 
